@@ -42,3 +42,8 @@
 	path = OCA/social
 	url = git@github.com:OCA/social.git
 	branch = 14.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 14.0
