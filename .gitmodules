@@ -1,54 +1,54 @@
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/purchase-workflow"]
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/l10n-spain"]
 	path = OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/commission"]
 	path = OCA/commission
 	url = git@github.com:OCA/commission.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/bank-payment"]
 	path = OCA/bank-payment
 	url = git@github.com:OCA/bank-payment.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/social"]
 	path = OCA/social
 	url = git@github.com:OCA/social.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/brand"]
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
-	branch = 14.0
+	branch = 15.0
 
 [submodule "OCA/rma"]
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
-	branch = 14.0
+	branch = 15.0
