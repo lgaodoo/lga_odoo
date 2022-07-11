@@ -1,7 +1,7 @@
 .pos-product-magnify {
     position: absolute;
     top: 0px;
-    left: 2px;
+    left: 20px;
     line-height: 13px;
     border-radius: 2px;
     z-index: 1000;

@@ -23,7 +23,7 @@
 
 {
     'name': "Pos Product Magnify Image",
-    'version': '14.0.1.0.0',
+    'version': '15.0.1.0.0',
     'summary': """Magnify product image in PoS""",
     'description': """Magnify Product Image in Point of Sale""",
     'author': "Cybrosys Techno Solutions",
@@ -31,11 +31,16 @@
     'website': "http://www.cybrosys.com",
     'category': 'Point of Sale',
     'depends': ['point_of_sale'],
-    'data': ['views/point_of_sale_assets.xml'],
-    'qweb': [
-        'static/src/xml/MagnifyProductPopup.xml',
-        'static/src/xml/ProductItem.xml',
-    ],
+    'assets': {
+        'point_of_sale.assets': [
+            'pos_magnify_image/static/src/js/MagnifyProductPopup.js',
+            'pos_magnify_image/static/src/js/ProductScreen.js',
+            'pos_magnify_image/static/src/css/pos_magnify_image.css',
+        ],
+        'web.assets_qweb': [
+            'pos_magnify_image/static/src/xml/**/*'
+        ]
+    },
     'images': ['static/description/banner.png'],
     'license': 'AGPL-3',
     'installable': True,
