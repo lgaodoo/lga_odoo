@@ -52,3 +52,8 @@
 	path = ingadhoc/product
 	url = git@github.com:ingadhoc/product.git
 	branch = 15.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 15.0
