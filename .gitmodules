@@ -70,3 +70,8 @@
 	path = GST/apps_odoo
 	url = git@gitlab.freyi.es:odoo/apps_odoo
 	branch = 15.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 15.0
