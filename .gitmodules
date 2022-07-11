@@ -62,3 +62,6 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 15.0
+[submodule "GST/apps_odoo"]
+	path = GST/apps_odoo
+	url = git@gitlab.freyi.es:odoo/apps_odoo
