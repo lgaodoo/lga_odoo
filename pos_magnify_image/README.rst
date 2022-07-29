@@ -24,6 +24,7 @@ Credits
 Developer: Aswani pc @cybrosys, Contact: odoo@cybrosys.com
             version 13: Yadu @cybrosys, Contact: odoo@cybrosys.com
             version 14: Abhishek E T @cybrosys, Contact: odoo@cybrosys.com
+            version 15: Abhishek E T @cybrosys, Contact: odoo@cybrosys.com
 
 Contacts
 =======
