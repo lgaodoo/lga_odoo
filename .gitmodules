@@ -52,3 +52,7 @@
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
 	branch = 15.0
+[submodule "GST/lga"]
+	path = GST/lga
+	url = git@gitlab.freyi.es:odoo/lga
+	branch = test
