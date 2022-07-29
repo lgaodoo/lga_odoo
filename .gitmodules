@@ -43,11 +43,6 @@
 	url = git@github.com:OCA/social.git
 	branch = 15.0
 
-[submodule "OCA/brand"]
-	path = OCA/brand
-	url = git@github.com:OCA/brand.git
-	branch = 15.0
-
 [submodule "OCA/rma"]
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
